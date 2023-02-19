@@ -9,7 +9,7 @@ acquainted and configure additional features
 
 For starting working with the project we need to clone the repo. This could be
 achieved with command `git clone *repo url*` in our case it would be
-`git clone https://github.com/Skladaniuk/Spinla-sprava-test`
+`git clone https://github.com/Skladaniuk/spilna-sprava`
 
 ## Start app
 
