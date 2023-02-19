@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/spilna-sprava-test/static/css/main.7acaea2f.css",
-    "main.js": "/spilna-sprava-test/static/js/main.e994155b.js",
-    "index.html": "/spilna-sprava-test/index.html",
-    "main.7acaea2f.css.map": "/spilna-sprava-test/static/css/main.7acaea2f.css.map",
-    "main.e994155b.js.map": "/spilna-sprava-test/static/js/main.e994155b.js.map"
+    "main.css": "/spilna-sprava/static/css/main.7acaea2f.css",
+    "main.js": "/spilna-sprava/static/js/main.07dd9624.js",
+    "index.html": "/spilna-sprava/index.html",
+    "main.7acaea2f.css.map": "/spilna-sprava/static/css/main.7acaea2f.css.map",
+    "main.07dd9624.js.map": "/spilna-sprava/static/js/main.07dd9624.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.e994155b.js"
+    "static/js/main.07dd9624.js"
   ]
 }
