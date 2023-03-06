@@ -12,7 +12,9 @@ export const Table = () => {
     <MainTable>
       <thead>
         <tr>
-          {selectedFields.name && (
+          {selectedFields && [...selectedFields].sort((a, b) => a.id - b.id).map((field)=> 
+          <td key={field.id + field.title}>{field.title}</td>) }
+          {/* {selectedFields.name && (
             <TableHead>{CONST.columnNames.name}</TableHead>
           )}
           {selectedFields.username && (
@@ -33,7 +35,7 @@ export const Table = () => {
           {selectedFields.adress && (
             <TableHead>{CONST.columnNames.address}</TableHead>
           )}
-          {selectedFields.id && <TableHead>{CONST.columnNames.id}</TableHead>}
+          {selectedFields.id && <TableHead>{CONST.columnNames.id}</TableHead>} */}
         </tr>
       </thead>
       <tbody>
